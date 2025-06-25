@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.imgur.com/jeas-github-pic-here.png" alt="Sua Foto de Perfil" width="150" height="150" style="border-radius: 50%;">
+  <h1>Olá, devs! Eu sou o [Seu Nome] 👋</h1>
+  <p>Um engenheiro mecânico por formação, analista de sistemas por paixão e aprendiz contínuo por natureza. Minha jornada na tecnologia atravessa mais de quatro décadas, e a cada dia, encontro novas formas de aprender e construir!</p>
+</div>
 
-<!--
-**jeas-github/jeas-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>🌟 Destaques da Minha Jornada</h2>
+  [cite_start]<p>Atualmente, sou <b>Co-founder e Sócio</b> da <a href="https://www.linkedin.com/company/sou-elo-solidario/" target="_blank">Sou Elo Solidário</a> [cite: 1, 2][cite_start], uma startup de impacto social dedicada a reduzir desigualdades sociais para crianças, adolescentes e idosos em vulnerabilidade social em Fortaleza, CE.  Uma iniciativa que une tecnologia e propósito!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [cite_start]<p>Mesmo após uma carreira sólida de <b>mais de 40 anos</b>, incluindo longos períodos no <b>Banco do Nordeste do Brasil</b> [cite: 3, 8] [cite_start](onde atuei como Analista de Sistemas, Gerente de Prevenção e Combate à Lavagem de Dinheiro, e Consultor de TI ) e na <b>Telecomunicações do Ceará S/A</b>, minha paixão por aprender continua acesa. Hoje, estou imerso no universo do desenvolvimento web!</p>
+
+  [cite_start]<p>Minha formação inclui Bacharelado em Engenharia Mecânica e Pós-graduação em Computação pela <b>Universidade Federal do Ceará (UFC)</b>,  [cite_start]além de um MBA em Normas e Padrões Internacionais de Auditoria Interna pela Universidade Católica de Brasília. </p>
+</div>
+
+---
+
+## 🚀 Onde estou focado AGORA!
+
+[cite_start]Estou em plena imersão na **Digital College em Fortaleza, Ceará**,  me aprofundando em:
+
+* [cite_start]<b>Capacitação em Back-end com PHP e Laravel.</b> 
+* [cite_start]<b>Livre Formação em Full Stack.</b> 
+
+Isso significa que estou com as mãos nas seguintes tecnologias e ferramentas:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+</p>
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeas-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeas-github&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições no GitHub">
+</p>
+
+## 🤝 Conecte-se comigo!
+
+Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[seu-usuario-linkedin]/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  </p>
+
+<hr>
+
+<p align="center">
+  <i>"Nunca é tarde para aprender e se reinventar!"</i>
+</p>
