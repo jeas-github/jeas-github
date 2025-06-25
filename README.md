@@ -8,11 +8,14 @@
 
 <div align="center">
   <h2>🌟 Destaques da Minha Jornada</h2>
-  <p>Atualmente, sou <b>Co-founder e Sócio</b> da <a href="https://www.linkedin.com/company/sou-elo-solidario/" target="_blank">Sou Elo Solidário</a>, uma startup de impacto social dedicada a reduzir desigualdades sociais para crianças, adolescentes e idosos em situação de vulnerabilidade social em Fortaleza, CE.  Uma iniciativa que une tecnologia e propósito!</p>
+  <p>Atualmente, sou <b>Co-founder e Sócio</b> da <a href="https://www.souelosolidario.com.br/" target="_blank">Sou Elo Solidário</a>, uma startup de impacto social dedicada a reduzir desigualdades sociais para crianças, adolescentes e idosos em situação de vulnerabilidade social em Fortaleza, CE.  Uma iniciativa que une tecnologia e propósito!</p>
 
   <p>Mesmo após uma carreira sólida de <b>mais de 40 anos</b>, incluindo longos períodos no <b>Banco do Nordeste do Brasil</b> (onde atuei como Analista de Sistemas, Gerente de Prevenção e Combate à Lavagem de Dinheiro, e Consultor de TI ) e na <b>Telecomunicações do Ceará S/A (Teleceará)</b>, minha paixão por aprender continua acesa. Hoje, estou imerso no universo do desenvolvimento web!</p>
 
-  <p>Minha formação inclui Bacharelado em Engenharia Mecânica e Pós-graduação em Computação pela <b>Universidade Federal do Ceará (UFC)</b>, além de um MBA em Normas e Padrões Internacionais de Auditoria Interna pela <b>Universidade Católica de Brasília</b>b>. </p>
+  <p>Minha formação inclui Bacharelado em Engenharia Mecânica e Pós-graduação em Computação pela <b>Universidade Federal do Ceará (UFC)</b>, além de um MBA em Normas e Padrões Internacionais de Auditoria Interna pela <b>Universidade Católica de Brasília</b>. </p>
+
+  <p>Com um histórico de compartilhamento de conhecimento, também atuei como <b>Instrutor</b> em diversos cursos da área de Tecnologia da Informação, Segurança da Informação e Prevenção à Lavagem de Dinheiro (PLD) na Universidade Corporativa do Banco do Nordeste do Brasil (BNB), <b>Professor Auxiliar de Graduação</b> na Educadora Sete de Setembro e na Sociedade de Ensino Superior do Ceará, complementando minha trajetória profissional com a docência. </p>
+
 </div>
 
 ---
@@ -58,7 +61,7 @@ Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
   </a>
 
   <a href="instagram.com/jorgeeasiqueira/">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
 
 </p>
