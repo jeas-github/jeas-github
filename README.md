@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/jeas-github-pic-here.png" alt="Sua Foto de Perfil" width="150" height="150" style="border-radius: 50%;">
-  <h1>Olá, devs! Eu sou o [Seu Nome] 👋</h1>
+  <img src="https://avatars.githubusercontent.com/u/63056152?v=4" alt="Sua Foto de Perfil" width="150" height="150" style="border-radius: 50%;">
+  <h1>Olá, devs! Eu sou o Jorge Eduardo 👋</h1>
   <p>Um engenheiro mecânico por formação, analista de sistemas por paixão e aprendiz contínuo por natureza. Minha jornada na tecnologia atravessa mais de quatro décadas, e a cada dia, encontro novas formas de aprender e construir!</p>
 </div>
 
@@ -8,21 +8,21 @@
 
 <div align="center">
   <h2>🌟 Destaques da Minha Jornada</h2>
-  [cite_start]<p>Atualmente, sou <b>Co-founder e Sócio</b> da <a href="https://www.linkedin.com/company/sou-elo-solidario/" target="_blank">Sou Elo Solidário</a> [cite: 1, 2][cite_start], uma startup de impacto social dedicada a reduzir desigualdades sociais para crianças, adolescentes e idosos em vulnerabilidade social em Fortaleza, CE.  Uma iniciativa que une tecnologia e propósito!</p>
+  <p>Atualmente, sou <b>Co-founder e Sócio</b> da <a href="https://www.linkedin.com/company/sou-elo-solidario/" target="_blank">Sou Elo Solidário</a>, uma startup de impacto social dedicada a reduzir desigualdades sociais para crianças, adolescentes e idosos em situação de vulnerabilidade social em Fortaleza, CE.  Uma iniciativa que une tecnologia e propósito!</p>
 
-  [cite_start]<p>Mesmo após uma carreira sólida de <b>mais de 40 anos</b>, incluindo longos períodos no <b>Banco do Nordeste do Brasil</b> [cite: 3, 8] [cite_start](onde atuei como Analista de Sistemas, Gerente de Prevenção e Combate à Lavagem de Dinheiro, e Consultor de TI ) e na <b>Telecomunicações do Ceará S/A</b>, minha paixão por aprender continua acesa. Hoje, estou imerso no universo do desenvolvimento web!</p>
+  <p>Mesmo após uma carreira sólida de <b>mais de 40 anos</b>, incluindo longos períodos no <b>Banco do Nordeste do Brasil</b> (onde atuei como Analista de Sistemas, Gerente de Prevenção e Combate à Lavagem de Dinheiro, e Consultor de TI ) e na <b>Telecomunicações do Ceará S/A (Teleceará)</b>, minha paixão por aprender continua acesa. Hoje, estou imerso no universo do desenvolvimento web!</p>
 
-  [cite_start]<p>Minha formação inclui Bacharelado em Engenharia Mecânica e Pós-graduação em Computação pela <b>Universidade Federal do Ceará (UFC)</b>,  [cite_start]além de um MBA em Normas e Padrões Internacionais de Auditoria Interna pela Universidade Católica de Brasília. </p>
+  <p>Minha formação inclui Bacharelado em Engenharia Mecânica e Pós-graduação em Computação pela <b>Universidade Federal do Ceará (UFC)</b>, além de um MBA em Normas e Padrões Internacionais de Auditoria Interna pela <b>Universidade Católica de Brasília</b>b>. </p>
 </div>
 
 ---
 
 ## 🚀 Onde estou focado AGORA!
 
-[cite_start]Estou em plena imersão na **Digital College em Fortaleza, Ceará**,  me aprofundando em:
+Estou em plena imersão na **Digital College em Fortaleza, Ceará**,  me aprofundando em:
 
-* [cite_start]<b>Capacitação em Back-end com PHP e Laravel.</b> 
-* [cite_start]<b>Livre Formação em Full Stack.</b> 
+* <b>Capacitação em Back-end com PHP e Laravel.</b> 
+* <b>Livre Formação em Full Stack.</b> 
 
 Isso significa que estou com as mãos nas seguintes tecnologias e ferramentas:
 
@@ -53,10 +53,15 @@ Isso significa que estou com as mãos nas seguintes tecnologias e ferramentas:
 Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[seu-usuario-linkedin]/">
+  <a href="https://www.linkedin.com/in/jorgeeasiqueira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  </p>
+
+  <a href="instagram.com/jorgeeasiqueira/">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge">
+  </a>
+
+</p>
 
 <hr>
 
