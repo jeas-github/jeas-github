@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/63056152?v=4" alt="Sua Foto de Perfil" width="150" height="150" style="border-radius: 50%;">
-  <h1>Olá, devs! Eu sou o Jorge Eduardo 👋</h1>
+  <h1>Olá, eu sou o Jorge Eduardo. </h1>
   <p>Um engenheiro mecânico por formação, analista de sistemas por paixão e aprendiz contínuo por natureza. Minha jornada na tecnologia atravessa mais de quatro décadas, e a cada dia, encontro novas formas de aprender e construir!</p>
 </div>
 
@@ -10,11 +10,11 @@
   <h2>🌟 Destaques da Minha Jornada</h2>
   <p>Atualmente, sou <b>Co-founder e Sócio</b> da <a href="https://www.souelosolidario.com.br/" target="_blank">Sou Elo Solidário</a>, uma startup de impacto social dedicada a reduzir desigualdades sociais para crianças, adolescentes e idosos em situação de vulnerabilidade social em Fortaleza, CE.  Uma iniciativa que une tecnologia e propósito!</p>
 
-  <p>Mesmo após uma carreira sólida de <b>mais de 40 anos</b>, incluindo longos períodos no <b>Banco do Nordeste do Brasil</b> (onde atuei como Analista de Sistemas, Gerente de Prevenção e Combate à Lavagem de Dinheiro, e Consultor de TI ) e na <b>Telecomunicações do Ceará S/A (Teleceará)</b>, minha paixão por aprender continua acesa. Hoje, estou imerso no universo do desenvolvimento web!</p>
+  <p>Mesmo após uma carreira sólida de <b>mais de 40 anos</b>, incluindo longos períodos no <b>Banco do Nordeste do Brasil</b> (onde atuei como Analista de Sistemas, Consultor de TI, Gerente de Projetos de TI, Gerente de Célula de Gerenciamento de Recursos de Segurança e Gerente de Célula de Prevenção e Combate à Lavagem de Dinheiro) e na <b>Telecomunicações do Ceará S/A</b> (onde também atuei como Analista de Sistemas), minha paixão por aprender continua acesa. Hoje, estou imerso no universo do desenvolvimento web!</p>
 
   <p>Minha formação inclui Bacharelado em Engenharia Mecânica e Pós-graduação em Computação pela <b>Universidade Federal do Ceará (UFC)</b>, além de um MBA em Normas e Padrões Internacionais de Auditoria Interna pela <b>Universidade Católica de Brasília</b>. </p>
 
-  <p>Com um histórico de compartilhamento de conhecimento, também atuei como <b>Instrutor</b> em diversos cursos da área de Tecnologia da Informação, Segurança da Informação e Prevenção à Lavagem de Dinheiro (PLD) na Universidade Corporativa do Banco do Nordeste do Brasil (BNB), <b>Professor Auxiliar de Graduação</b> na Educadora Sete de Setembro e na Sociedade de Ensino Superior do Ceará, complementando minha trajetória profissional com a docência. </p>
+  <p>Com um histórico de compartilhamento de conhecimento, também atuei como <b>Instrutor</b> em diversos cursos da área de Tecnologia da Informação, Segurança da Informação e Prevenção e Combate à Lavagem de Dinheiro (PLD) na Universidade Corporativa do Banco do Nordeste do Brasil (BNB), <b>Professor Auxiliar de Graduação</b> na Educadora Sete de Setembro e na Sociedade de Ensino Superior do Ceará, complementando minha trajetória profissional com a docência. </p>
 
 </div>
 
@@ -60,9 +60,23 @@ Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
-  <a href="instagram.com/jorgeeasiqueira/">
+  <a href="https://www.instagram.com/jorgeeasiqueira/">
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
+
+  <a href="https://www.facebook.com/jorgeeasiqueira/">
+    <img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+  </a>
+
+  <a href="https://www.github.com/jeas-github/">
+    <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+
+<a href="https://www.youtube.com/@jorgeeduardoandradesiqueir7482">
+    <img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
+  </a>
+
+  
 
 </p>
 
